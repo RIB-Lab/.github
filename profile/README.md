@@ -6,9 +6,10 @@ RIBLab で構築されたプラグインや Web サイトなどの開発プロ�
 
 [Website](https://www.riblab.net/) · [Blog](https://www.riblab.net/blog/)
 
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<ul>
-	<li>オープンソースのコントリビューターになりたいですか？ <a href="https://opensource.guide/ja/">オープンソースガイドライン</a> を読んでコントリビュートしてみましょう！</li>
-	</ul>
+<details>
+	
+<summary>"Tell me more, I can't get enough!"</summary>
+
+オープンソースのコントリビューターになりたいですか？ [オープンソースガイドライン](https://opensource.guide/ja/) を読んでコントリビュートしてみましょう！
+
 </details>
