@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/136494542?s=200" align="left" width="200"/>
-
 ### `RIBLab`
 
 RIBLab で構築されたプラグインや Web サイトなどの開発プロジェクトにアクセスできます。
